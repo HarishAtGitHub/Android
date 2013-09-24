@@ -1,0 +1,31 @@
+The main files involved in the app development are in 
+
+/Scrum Estimates/assets/www/js            ----> javascript files ( jquery library and jquery mobile library
+/Scrum Estimates/assets/www/css           ----> css files (css used by jquery mobile and also pictures used in it)
+/Scrum Estimates/assets/www/img           ----> images used in the app (scrum card images , app icon and Launch icons)
+
+HTML Files are 
+
+/Scrum Estimates/assets/www/index.html
+/Scrum Estimates/assets/www/Tshirt.html
+/Scrum Estimates/assets/www/fib.html
+
+
+                                         index.html
+					     |
+					     |
+                       ______________________|_________________________
+                       |                                               |
+                       |                                               |
+                       |                                               |
+                     Tshirt.html                                     fib.html
+
+
+
+
+This app was done using a mobile development framework called  -------> phonegap .
+The designing was done using ------------> jquery mobile library .
+
+/Scrum Estimates/assets/www/apis has javascript files for other stuff in mobiles like accelerometer , compass , messages .
+This is left as such for the time being without being deleted , so that it can be used if incase our app needs new features .
+
